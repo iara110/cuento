@@ -45,3 +45,9 @@ h2 {
 ul{
     text-align: center;
 }
+.imagenes{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
